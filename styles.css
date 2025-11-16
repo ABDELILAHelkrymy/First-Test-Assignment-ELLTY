@@ -100,8 +100,8 @@ body {
 .custom-checkbox:hover::after {
   content: "";
   position: absolute;
-  left: 7px;
-  top: 3px;
+  left: 10px;
+  top: 4px;
   width: 6px;
   height: 11px;
   border: solid #878787;
@@ -121,8 +121,8 @@ body {
 .custom-checkbox:checked::after {
   content: "";
   position: absolute;
-  left: 7px;
-  top: 3px;
+  left: 10px;
+  top: 4px;
   width: 6px;
   height: 11px;
   border: solid #ffffff;
